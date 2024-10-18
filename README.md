@@ -10,7 +10,7 @@ The first iteration of this course was lead by Roxi Shohadaee and a team of inst
 
 ## Course Outline
 
-* Session 1: Introduction to Decentralized Web (Dweb) and Its Cultural Foundations with [Sarah Grant](#sarah-grant) and [Regina Harsanyi](#regina-harsanyi)
+* [Session 1: Introduction to Decentralized Web (Dweb) and Its Cultural Foundations](./1.0-introduction-to-decentralized-web/) with [Sarah Grant](#sarah-grant) and [Regina Harsanyi](#regina-harsanyi)
 * Praxis 1: Command Line for Creatives with [Sarah Grant](#sarah-grant) and [Sarah Friend](#sarah-friend)
 * Session 2: DWeb Lexicon and Ecosystem with [Sarah Grant](#sarah-grant), [Regina Harsanyi](#regina-harsanyi), and [ngọc triệu](#ngoc-trieu)
 * Praxis 2: Data Sovereignty and Storage with [Kelani Nicole](#kelani-nicole)
