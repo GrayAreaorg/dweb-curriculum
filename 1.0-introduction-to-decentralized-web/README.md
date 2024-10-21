@@ -30,7 +30,7 @@ This session will explore the history of the internet and the World Wide Web whi
 
 ### Essential Resources
 
-* [Session Slides: Introduction to DWeb & Cultural Foundations](./Slides%20-%20Intro%20to%20DWeb%20&%20Cultural%20Foundations.pdf)
+* [Session Slides: Introduction to DWeb & Cultural Foundations](./Slides%20-%20Intro%20to%20DWeb%20&%20Cultural%20Foundations%20-%20Session%201.pdf)
 
 ### Additional Session Resources, Citations, and References
 
@@ -39,6 +39,7 @@ This session will explore the history of the internet and the World Wide Web whi
 * [Freifunk](https://freifunk.net/en/2022/06/battlemesh-v14-and-wcw-2022/): Non-commercial initiative for free wireless networks
 * [guifi.net](https://guifi.net/en): Commons Telecommunications Network
 * [Echo NYC](https://www.echonyc.com/): The virtual salon of NYC
+* [Research into Human Rights Protocol Considerations - RFC 8280](https://datatracker.ietf.org/doc/rfc8280/)
 * [Git](https://git-scm.com/): Distributed version control system
 * [NYC Mesh](https://www.nycmesh.net/): Local mesh network in New York City
 * [Well.com](https://www.well.com/): Destination for conversation and discussion
@@ -46,5 +47,6 @@ This session will explore the history of the internet and the World Wide Web whi
 * [Scuttlebutt](https://www.scuttlebutt.nz/): A decentralized platform
 * [ARPANET Geographic Maps](http://mercury.lcs.mit.edu/~jnc/tech/arpageo.html) by J. Noel Chiappa
 * [RFC Index](https://www.rfc-editor.org/rfc-index-100a.html): Technical specifications and organizational notes for the Internet
+* [TeleGeography](https://www.submarinecablemap.com/ready-for-service/2024): Submarine Cable Map
 * [How Not to Network a Nation: The Uneasy History of the Soviet Internet](https://direct.mit.edu/books/monograph/3470/How-Not-to-Network-a-NationThe-Uneasy-History-of) by Benjamin Peters
 * [Internet Protocol Suite (TCP/IP)](https://en.wikipedia.org/wiki/Internet_protocol_suite) \[WIKIPEDIA\]
