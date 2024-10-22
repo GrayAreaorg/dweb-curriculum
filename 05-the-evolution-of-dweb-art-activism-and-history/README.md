@@ -1,4 +1,4 @@
-# The Evolution of DWeb Art, Activism, and History
+# Session 3: The Evolution of DWeb Art, Activism, and History
 
 with Sarah Grant and Regina Harsanyi.
 
