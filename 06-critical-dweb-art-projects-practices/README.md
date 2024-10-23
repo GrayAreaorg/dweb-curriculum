@@ -29,8 +29,8 @@ This class will look in depth at approaches to integrating Dweb tools into art p
 
 ### Essential Resources
 
-* [Slides: Critical DWeb Art Projects + Practices](Slides-Critical-DWeb-Art-Projects-and-Practice-Praxis-3.pdf)
-* [Step by Step Instructions: Hands on with Wallets, Blockchain, and NFTs](Workshop-Instructions-Critical-Art Practices-Praxis-3.pdf)
+* [Slides: Critical DWeb Art Projects and Practices](Slides-Critical-DWeb-Art-Projects-and-Practice-Praxis-3.pdf)
+* [Step by Step Instructions: Hands on with Wallets, Blockchain, and NFTs](Workshop-Instructions-Critical-Art-Practices-Praxis-3.pdf)
 
 ### Additional Session Resources, Citations, and References
 
