@@ -1,4 +1,4 @@
-# Praxis 5: Setting up a Mesk Network
+# Praxis 5: Setting up a Mesh Network
 
 with Sarah Grant
 
